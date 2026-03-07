@@ -24,7 +24,7 @@ limit 5;
 
 
 --Q4. compare the average Purchase Amounts between Standard and Express shipping.
-select * from customer
+select * from customer;
 
 select shipping_type, ROUND(AVG(purchase_amount::numeric), 2) 
 from customer
