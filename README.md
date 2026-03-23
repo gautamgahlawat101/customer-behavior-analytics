@@ -1,4 +1,4 @@
-# Retail Sales Data Pipeline & Customer Behavior Analysis
+# Customer Behavior & Sales Analytics Pipeline (Python, SQL, Power BI)
 
 ## Overview
 
